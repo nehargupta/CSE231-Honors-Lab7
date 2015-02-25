@@ -4,4 +4,4 @@ managed to make it here! Then, follow \
 the instructions to commit the change to your repository. And continue \
 with the rest of the tutorial.")
 
-print("Neha Gupta (aka the TA) was here")
+print("Will Was Here")
