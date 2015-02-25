@@ -5,3 +5,4 @@ the instructions to commit the change to your repository. And continue \
 with the rest of the tutorial.")
 
 print("Neha Gupta (aka the TA) was here")
+print("Kyle Kinsey was here. I did it!")
