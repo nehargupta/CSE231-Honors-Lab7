@@ -5,3 +5,4 @@ the instructions to commit the change to the repository. If there are any \
 conflicts, follow the steps to resolve them.")
 
 print("Neha Gupta (aka the TA) was here")
+print("Lulu Wang (aka the Panda) was here")
